@@ -1,0 +1,1 @@
+import{B as a,b as r}from"./banner-zKFMgUe5.js";import{_ as o,d as t,o as c,c as s,e as l}from"./index-CRcN-Fuy.js";const m={components:{Banner:a},data(){return{bannerImageUrl:r}}};function p(_,i,d,f,e,u){const n=t("Banner");return c(),s("div",null,[l(n,{imageUrl:e.bannerImageUrl,title:"Contact"},null,8,["imageUrl"])])}const b=o(m,[["render",p]]);export{b as default};
